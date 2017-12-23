@@ -1,0 +1,6 @@
+/out
+/project.clj
+/node_modules
+/target
+/compiled-assets
+/tmp
